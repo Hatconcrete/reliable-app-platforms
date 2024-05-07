@@ -128,15 +128,11 @@ requests==2.31.0
     #   google-cloud-profiler
 rsa==4.9
     # via google-auth
-six==1.16.0
-    # via
-    #   google-auth
-    #   google-auth-httplib2
 typing-extensions==4.7.1
     # via opentelemetry-sdk
 uritemplate==4.1.1
     # via google-api-python-client
-urllib3==1.26.16
+urllib3==1.26.18
     # via
     #   google-auth
     #   requests
